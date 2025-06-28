@@ -12,14 +12,15 @@ Ideal for Network Monitoring & Cybersecurity Learning
 
 Installation 
 Clone the repository
-  git clone https://github.com/Cyberfreak567/Network-sniffer.git  
-  cd Network-sniffer
+git clone https://github.com/Cyberfreak567/Network-sniffer.git  
+cd Network-sniffer
 
 Backend setup (Flask + Scapy)
-  python app.py 
+python app.py 
+  
 Frontend setup (React)
-  npm install 
-  npm start
+npm install 
+npm start
 
 SCREENSHOT
 
