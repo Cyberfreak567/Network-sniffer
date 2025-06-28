@@ -17,10 +17,14 @@ Clone the repository
 
 Backend setup (Flask + Scapy)
   python app.py 
-
 Frontend setup (React)
   npm install 
   npm start
+
+SCREENSHOT
+
+![Screenshot (643)](https://github.com/user-attachments/assets/70a09e5e-06e3-41e2-b55a-61ca884bb2a7)
+
 
 Screenshots
 
