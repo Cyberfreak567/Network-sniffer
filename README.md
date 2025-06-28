@@ -23,9 +23,14 @@ Frontend setup (React)
 
 SCREENSHOT
 
-![Screenshot (643)](https://github.com/user-attachments/assets/70a09e5e-06e3-41e2-b55a-61ca884bb2a7)
+![Screenshot (648)](https://github.com/user-attachments/assets/34a18b47-e93d-4374-af10-52ce336a26de)
+
+![Screenshot (649)](https://github.com/user-attachments/assets/73d6eb66-070e-48fb-bcc5-600c10f51786)
 
 
-Screenshots
+
+
+
+
 
     
